@@ -1,5 +1,5 @@
 
- **Chrome T-REx Game**
+ **Chrome T-Rex Game**
 
 
  This allows us to play the t-rex game when when we have internet connection.
